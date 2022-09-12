@@ -7,7 +7,7 @@ My goal with these recreations is that they are 100% clickable (only the RS-25 e
 
 Planned Updates:
 
-V2 - To correct any Block 1 Errors, Added Blocks 1B and 2, Engine Stacking (so you don't have to use Part Clipping)
+V2 - To correct any Block 1 Errors, Add Blocks 1B and 2, Engine Stacking (so you don't have to use Part Clipping)
 
 V3 - To add a lander (based on best information gathering) and Constellation Variant
 
