@@ -1,16 +1,18 @@
-# SFS_PicoSpace_Artemis
-PicoSpace Artemis SLS Recreation which currently comprises of the Block 1 variant of the SLS project.
+# SFS_PicoSpace_Additional Launch Vehicles
+PicoSpace Additional Launch Vehicles is my SfS Recreation pack which comprises of the following launch vehicles for Spaceflight Simulator.
+- SLS Block 1, 1B, 2
+- Ares 1, IV, V
+- Atlas V - 400 and 500 series
+- Delta IV Program
 
-My goal with these recreations is that they are 100% clickable (only the RS-25 engines currently need to be stacked/clipped and stagged).
+My goal with these recreations is that they are 100% clickable so staging is not required (although very helpful, especially if you need to abort or detach boosters).
 
 [![20220912000227_1](https://user-images.githubusercontent.com/109048742/189574736-fa793647-25d0-4073-a051-9d22a76df03d.jpg)](https://www.youtube.com/watch?v=LV5cDDgAClM)
 
 Planned Updates:
 
-V2 - To correct any Block 1 Errors, Add Blocks 1B and 2, Engine Stacking (so you don't have to use Part Clipping)
+V3 - Expand Back in time for Delta and Atlas and Forward with Vulcan/Jupiter and further afield with Launch Vehicles around the world.
 
-V3 - To add a lander (based on best information gathering) and Constellation Variant
-
-REQUIREMENT: You will need my Latest Engine Pack for the Engines
+REQUIREMENT: You will need my Latest Engine Pack for the Engines and Boosters for the Boosters.
 
 [This pack is sponsored by PicoSpace YouTube - Please consider Subscribing](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA)
