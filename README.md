@@ -5,6 +5,9 @@ PicoSpace Additional Launch Vehicles is my SfS Recreation pack which comprises o
 - Atlas V - 400 and 500 series
 - Delta IV Program
 
+Spacecraft Companion Pack
+- Orion Space Capsule, Heat Shield, and European Service Module
+
 My goal with these recreations is that they are 100% clickable so staging is not required (although very helpful, especially if you need to abort or detach boosters).
 
 [![20220912000227_1](https://user-images.githubusercontent.com/109048742/189574736-fa793647-25d0-4073-a051-9d22a76df03d.jpg)](https://www.youtube.com/watch?v=LV5cDDgAClM)
