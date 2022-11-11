@@ -11,6 +11,7 @@ Spacecraft Companion Pack
 - Starliner Capsule, Heat Shield, and Service Module
 - Credesign Lunar Lander  (one part + Utilities Pack Items + Pegion Hawk Breeze Engine from Engines Pack)
 - Seek's Salamander Mars Lander (two parts + Utilities Pack Items + Might Owl Engine from Engines Pack)
+- Reusable 2nd Stage For Falcons with Petal Fairings
 
 My goal with these recreations is that they are 100% clickable so staging is not required (although very helpful, especially if you need to abort or detach boosters).
 
@@ -22,6 +23,12 @@ Planned Updates:
 
 V3 - Expand Back in time for Delta and Atlas and Forward with Vulcan/Jupiter and further afield with Launch Vehicles around the world.
 
-REQUIREMENT: You will need my Latest Engine Pack for the Engines and Boosters for the Boosters.
+Special Thanks to @Prime252 for making the Falcon (9's for the Dragon Capsules which you can find here:
+https://github.com/Prime252?tab=repositories
+
+Special Thanks to OldSpaceNerd for the BP's of all the Rockets!
+
+REQUIREMENT: You will need my Latest Engine Pack for the Engines, Boosters for the Boosters, and Utilities for the optional Add-ons.
 
 [This pack is sponsored by PicoSpace YouTube - Please consider Subscribing](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA)
+
