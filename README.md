@@ -1,4 +1,8 @@
 # SFS_PicoSpace_Additional Launch Vehicles
+
+<<THIS MOD CURRENTLY NEEDS N2O4's Latest ELECTRITICTY PACK TO WORK AS SOME PARTS HAVE FUNCTIONAL SOLAR PANELS!!!>>
+Additional REQUIREMENT: You will need my Latest Engine Pack for the Engines, Boosters for the Boosters, and Utilities for the optional Add-ons.
+
 PicoSpace Additional Launch Vehicles is my SfS Recreation pack which comprises of the following launch vehicles for Spaceflight Simulator.
 - SLS Block 1, 1B, 2
 - Ares 1, IV, V
@@ -28,7 +32,7 @@ https://github.com/Prime252?tab=repositories
 
 Special Thanks to OldSpaceNerd for the BP's of all the Rockets!
 
-REQUIREMENT: You will need my Latest Engine Pack for the Engines, Boosters for the Boosters, and Utilities for the optional Add-ons.
+
 
 [This pack is sponsored by PicoSpace YouTube - Please consider Subscribing](https://www.youtube.com/channel/UCgPjBqQ1IptrZai4oLVZrXA)
 
